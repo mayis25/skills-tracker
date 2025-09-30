@@ -14,7 +14,7 @@
 - [x] CSS transitions и анимации
 - [x] Работа с box-shadow и border-radius
 - [x] CSS переменные
-
+ 
 ### JavaScript
 - [x] DOM manipulation (getElementById, querySelector)
 - [x] Обработка событий (addEventListener)
