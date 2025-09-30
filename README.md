@@ -36,6 +36,24 @@
 - ✅ Плавные анимации
 - ✅ Чистая архитектура кода
 
+## 🏆 Технологии которые я использую
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 Прогресс по навыкам
+
+![HTML Progress](https://img.shields.io/badge/HTML-100%25-orange?style=flat-square)
+![CSS Progress](https://img.shields.io/badge/CSS-100%25-blue?style=flat-square)
+![JS Progress](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square)
+![Git Progress](https://img.shields.io/badge/Git-90%25-red?style=flat-square)
+
 ## 📈 Статус Прогресса
 
 **Frontend Basics:** ██████████ 100%
